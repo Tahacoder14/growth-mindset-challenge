@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "challenge": "Reflect on a mistake you made this week. What did you learn from it, and how can you apply that learning next time?",
+        "category": "Reflection"
+    },
+    {
+        "id": 2,
+        "challenge": "Identify one task you've been avoiding. Break it into three smaller, manageable steps and complete the first step today.",
+        "category": "Action"
+    },
+    {
+        "id": 3,
+        "challenge": "Think of a skill you admire in someone else. What's one small action you can take this week to start developing a similar skill?",
+        "category": "Learning"
+    },
+    {
+        "id": 4,
+        "challenge": "Practice active listening in your next conversation. Summarize what the other person said before sharing your own thoughts.",
+        "category": "Communication"
+    },
+    {
+        "id": 5,
+        "challenge": "Seek constructive feedback on a recent piece of work or a project. Ask specifically: 'What's one thing I could do better next time?'",
+        "category": "Feedback"
+    },
+    {
+        "id": 6,
+        "challenge": "Identify a limiting belief you hold about your abilities (e.g., 'I'm not good at X'). Challenge it by finding one piece of evidence to the contrary.",
+        "category": "Mindset Shift"
+    },
+    {
+        "id": 7,
+        "challenge": "Step outside your comfort zone today. Do something small that feels slightly challenging or new to you.",
+        "category": "Courage"
+    },
+    {
+        "id": 8,
+        "challenge": "Celebrate a small win or progress you've made recently, no matter how minor it seems. Acknowledge your effort.",
+        "category": "Self-Appreciation"
+    },
+    {
+        "id": 9,
+        "challenge": "When faced with a setback, instead of saying 'I failed,' try reframing it as 'I learned...' What did you learn from a recent setback?",
+        "category": "Resilience"
+    },
+    {
+        "id": 10,
+        "challenge": "Read an article or watch a short video about a topic you know very little about. What's one new thing you learned?",
+        "category": "Curiosity"
+    },
+    {
+        "id": 11,
+        "challenge": "Think about a time you successfully overcame a difficult challenge. What strengths did you use? How can you apply those strengths to a current challenge?",
+        "category": "Strengths"
+    },
+    {
+        "id": 12,
+        "challenge": "Identify one area where you tend to compare yourself to others. Today, focus only on your own progress and effort in that area.",
+        "category": "Self-Focus"
+    },
+    {
+        "id": 13,
+        "challenge": "Teach someone something you know, even if it's simple. Explaining it to others can deepen your own understanding.",
+        "category": "Sharing Knowledge"
+    },
+    {
+        "id": 14,
+        "challenge": "When you receive praise, fully accept it with a simple 'Thank you' instead of downplaying it. Reflect on why you deserved it.",
+        "category": "Accepting Praise"
+    },
+    {
+        "id": 15,
+        "challenge": "Set a small, specific, and achievable goal for tomorrow. Write it down and plan the first step.",
+        "category": "Goal Setting"
+    }
+]
